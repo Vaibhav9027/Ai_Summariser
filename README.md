@@ -1,4 +1,4 @@
-##### Project Overview: 
+#### Project Overview: 
 Developed an AI-powered summarization tool that extracts and summarizes content from web pages. Users can input a URL to receive a concise summary of the page's content.
 
 # API Integration: 
