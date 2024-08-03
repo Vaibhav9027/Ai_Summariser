@@ -1,4 +1,7 @@
-#### Project Overview: 
+## For deployed model:- https://jazzy-klepon-d465a9.netlify.app/
+
+
+# Project Overview: 
 Developed an AI-powered summarization tool that extracts and summarizes content from web pages. Users can input a URL to receive a concise summary of the page's content.
 
 # API Integration: 
